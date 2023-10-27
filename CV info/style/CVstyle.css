@@ -146,6 +146,7 @@ header {display: flex;
  footer {text-align: center;
           height:10% ;
           margin-top: 2% ;
+          background-color:#782221;
          }
  footer h4 {color: white;
             }
